@@ -1,0 +1,4 @@
+#Mon Jul 06 10:32:33 GET 2020
+base.0=C\:\\Android_Final-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

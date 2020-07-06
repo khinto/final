@@ -1,0 +1,678 @@
+[
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_list_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_list_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_credit_card_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_credit_card_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadein.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_color_green.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable-v24\\color_green.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_usd_icon_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\usd_icon_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wallet_icon.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\wallet_icon.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_main_logo_background.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xxhdpi\\main_logo_background.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_main_logo_round.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-mdpi\\main_logo_round.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_main_logo_round.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\main_logo_round.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_remove_red_eye_24_active.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_remove_red_eye_24_active.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_wallet_icon.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\wallet_icon.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_usd_icon_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\usd_icon_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_transactions.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\layout\\fragment_transactions.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_alternate_email_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_alternate_email_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_credit_card_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\credit_card_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_compare_arrows_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_compare_arrows_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_main_logo_foreground.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\main_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add_icon_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\add_icon_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_credit_card_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\credit_card_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_remove_red_eye_24_active.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_remove_red_eye_24_active.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_compare_arrows_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_compare_arrows_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_main_logo.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-mdpi\\main_logo.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_main_logo_foreground.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xhdpi\\main_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_credit_card_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_credit_card_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_person_outline_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_person_outline_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_credit_card_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_credit_card_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_style_red.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable\\card_style_red.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_alternate_email_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_alternate_email_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_icon_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\add_icon_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycler_view_item.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\layout\\recycler_view_item.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_main_logo_round.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\main_logo_round.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_design.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable\\card_design.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_remove_red_eye_24_active.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_remove_red_eye_24_active.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_person_outline_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_person_outline_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wallet_style.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable\\wallet_style.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_main_logo.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xxhdpi\\main_logo.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_main_logo.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-hdpi\\main_logo.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_add_icon_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\add_icon_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_remove_red_eye_24_active.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_remove_red_eye_24_active.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_person_outline_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_person_outline_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_main_logo_round.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-hdpi\\main_logo_round.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_style_blue.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable\\card_style_blue.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_transfer.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\layout\\fragment_transfer.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadeout.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_compare_arrows_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_compare_arrows_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_list_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_list_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wallet_icon.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\wallet_icon.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_compare_arrows_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_compare_arrows_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_wallet_icon.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\wallet_icon.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_remove_red_eye_24_default.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_remove_red_eye_24_default.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_person_outline_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_person_outline_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_main_logo_round.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xxhdpi\\main_logo_round.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_main_logo_background.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\main_logo_background.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_credit_card_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_credit_card_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_main_logo_background.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xhdpi\\main_logo_background.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_list_24.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_list_24.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_person_outline_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_person_outline_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_landing.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\layout\\activity_landing.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_color_yellow.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable-v24\\color_yellow.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_compare_arrows_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_compare_arrows_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_remove_red_eye_24_active.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_remove_red_eye_24_active.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_alternate_email_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_alternate_email_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_credit_card_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_credit_card_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_new_card.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\layout\\fragment_new_card.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_radius.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable\\border_radius.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_style_yellow.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable\\card_style_yellow.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_main_logo.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xhdpi\\main_logo.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_main_logo_foreground.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xxhdpi\\main_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_compare_arrows_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_compare_arrows_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mastercard.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable\\mastercard.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_credit_card_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\credit_card_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_wallet_icon.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\wallet_icon.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_credit_card_24.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_credit_card_24.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_credit_card_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_credit_card_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_color_red.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable-v24\\color_red.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_remove_red_eye_24_default.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_remove_red_eye_24_default.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_remove_red_eye_24_default.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_remove_red_eye_24_default.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pass_reset.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\layout\\activity_pass_reset.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_alternate_email_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_alternate_email_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_usd_icon_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\usd_icon_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_remove_red_eye_24_active.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_remove_red_eye_24_active.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_list_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_list_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_list_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_list_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_wallet_icon.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\wallet_icon.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_placeholder.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable\\profile_placeholder.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_list_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_list_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_credit_card_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\credit_card_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_alternate_email_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_alternate_email_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_person_outline_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_person_outline_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add_icon_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\add_icon_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_main_logo_background.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-hdpi\\main_logo_background.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_main_logo_foreground.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-mdpi\\main_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_main_logo_background.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-mdpi\\main_logo_background.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_main_logo_foreground.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-hdpi\\main_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_credit_card_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\credit_card_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_remove_red_eye_24_default.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_remove_red_eye_24_default.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallet_icon.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\wallet_icon.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_alternate_email_24.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_alternate_email_24.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_credit_card_orange.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\credit_card_orange.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_usd_icon_orange.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\usd_icon_orange.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_style_green.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable\\card_style_green.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_remove_red_eye_24_active.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_remove_red_eye_24_active.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_remove_red_eye_24_default.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_remove_red_eye_24_default.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_alternate_email_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_alternate_email_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_add_icon_orange.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\add_icon_orange.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_citibank.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable\\citibank.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add_icon_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\add_icon_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_usd_icon_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\usd_icon_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_usd_icon_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\usd_icon_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_compare_arrows_24.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_compare_arrows_24.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_credit_card_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\credit_card_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_main_logo.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\main_logo.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_color_blue.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable-v24\\color_blue.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_remove_red_eye_24_default.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_remove_red_eye_24_default.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_main_logo.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\main_logo.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_radius.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\drawable\\input_radius.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_main_logo_round.png.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\mipmap-xhdpi\\main_logo_round.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_list_24.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_list_24.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_remove_red_eye_24_default.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_remove_red_eye_24_default.xml"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_usd_icon_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\usd_icon_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_icon_orange.png.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\add_icon_orange.png"
+    },
+    {
+        "merged": "C:\\Android_Final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Android_Final-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    }
+]

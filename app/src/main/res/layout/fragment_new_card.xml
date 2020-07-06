@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="#202023">
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="225dp"
+        android:background="@drawable/card_design"
+        android:orientation="vertical"
+        android:padding="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:src="@drawable/citibank" />
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:layout_marginLeft="150dp"
+                android:alpha="0.2"
+                android:src="@drawable/mastercard"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/mainCardNumberDisplay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:letterSpacing="0.35"
+            android:text="1900 8988 1234"
+            android:textColor="#D0D0D1"
+            android:textSize="28dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/validFrom"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:letterSpacing="0.35"
+                android:text="VALID FROM"
+                android:textColor="#A4A4A5"
+                android:layout_gravity="center"
+                android:textSize="10dp" />
+
+            <TextView
+                android:id="@+id/validFromDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="07/20"
+                android:textColor="#D0D0D1"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/validThru"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:letterSpacing="0.35"
+                android:text="VALID THRU"
+                android:textColor="#A4A4A5"
+                android:layout_gravity="center"
+                android:textSize="10dp" />
+
+            <TextView
+                android:id="@+id/validThruDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="07/24"
+                android:textColor="#D0D0D1"
+                android:textSize="25dp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/fullName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Firstname Lastname"
+            android:textColor="#A6A6A6"
+            android:textSize="18dp" />
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="430dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline4">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:letterSpacing="0.05"
+                android:text="Card"
+                android:textColor="#A4A4A5"
+                android:layout_gravity="center"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:text="MasterCard"
+                android:textColor="#A4A4A5"
+                android:layout_gravity="center"
+                android:textSize="20dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:letterSpacing="0.05"
+                android:text="Number"
+                android:textColor="#A4A4A5"
+                android:layout_gravity="center"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/creditCardGenerated"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:text="1900 8988 1234"
+                android:textColor="#A4A4A5"
+                android:layout_gravity="center"
+                android:textSize="20dp" />
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:letterSpacing="0.05"
+            android:text="Currency"
+            android:gravity="start"
+            android:textColor="#A4A4A5"
+            android:layout_gravity="center"
+            android:textSize="20dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="210dp"
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/gelCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="GEL"
+                android:checked="true"
+                android:enabled="false"
+                android:textColor="#F46F6F"
+                android:buttonTint="#50ffffff"
+                android:textSize="18dp"
+                android:textStyle="bold|italic" />
+
+            <CheckBox
+                android:id="@+id/usdCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="USD"
+                android:textColor="#40ffffff"
+                android:buttonTint="#50ffffff"
+                android:textSize="18dp"
+                android:textStyle="bold|italic" />
+
+            <CheckBox
+                android:id="@+id/eurCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="EUR"
+                android:textColor="#40ffffff"
+                android:buttonTint="#50ffffff"
+                android:textSize="18dp"
+                android:textStyle="bold|italic" />
+
+            <CheckBox
+                android:id="@+id/gbpCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="GBP"
+                android:textColor="#40ffffff"
+                android:buttonTint="#50ffffff"
+                android:textSize="18dp"
+                android:textStyle="bold|italic" />
+
+            <CheckBox
+                android:id="@+id/cadCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CAD"
+                android:textColor="#40ffffff"
+                android:buttonTint="#50ffffff"
+                android:textSize="18dp"
+                android:textStyle="bold|italic" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:letterSpacing="0.05"
+            android:text="Colors"
+            android:textColor="#A4A4A5"
+            android:layout_gravity="center"
+            android:textSize="20dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:gravity="right"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/blueBtn"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/color_blue"/>
+            <Button
+                android:id="@+id/yellowBtn"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/color_yellow"/>
+            <Button
+                android:id="@+id/redBtn"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/color_red"/>
+
+            <Button
+                android:id="@+id/greenBtn"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/color_green"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/createCardBtn"
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#10ffffff"
+        android:textColor="#995fff"
+        android:text="Create Card" />
+
+
+    </LinearLayout>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="240dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

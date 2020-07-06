@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:padding="20dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#37383b"
+        android:padding="10dp"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@id/guideline">
+
+        <TextView
+            android:id="@+id/title_display"
+            android:layout_width="50dp"
+            android:layout_height="55dp"
+            android:text="5 Jul 2020"
+            android:padding="5dp"
+            android:background="#2A2B2C"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#D8DAD8" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_marginLeft="10dp"
+            android:orientation="vertical"
+            app:layout_constraintTop_toBottomOf="@id/guideline">
+
+            <TextView
+                android:id="@+id/transactionType"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Outgoing"
+                android:textSize="16dp"
+                android:textStyle="bold"
+                android:textColor="#7DF672" />
+
+            <TextView
+                android:id="@+id/transactionSentTo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Sent to 1020 3040 5060"
+                android:gravity="center"
+                android:textSize="16dp"
+                android:textColor="#C4CAC3" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/transactionAmountDisplay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="+32.00$"
+            android:padding="5dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#7DF672" />
+
+    </LinearLayout>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="5dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
